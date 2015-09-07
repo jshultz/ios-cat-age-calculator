@@ -12,6 +12,7 @@
 		DE1325301B9E129800C73DC1 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DE13252E1B9E129800C73DC1 /* Main.storyboard */; };
 		DE1325321B9E129800C73DC1 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = DE1325311B9E129800C73DC1 /* Assets.xcassets */; };
 		DE1325351B9E129800C73DC1 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DE1325331B9E129800C73DC1 /* LaunchScreen.storyboard */; };
+		DE13253D1B9E13D000C73DC1 /* cat4.jpg in Resources */ = {isa = PBXBuildFile; fileRef = DE13253C1B9E13D000C73DC1 /* cat4.jpg */; settings = {ASSET_TAGS = (); }; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		DE1325311B9E129800C73DC1 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		DE1325341B9E129800C73DC1 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		DE1325361B9E129800C73DC1 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		DE13253C1B9E13D000C73DC1 /* cat4.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = cat4.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +59,7 @@
 				DE13252A1B9E129800C73DC1 /* AppDelegate.swift */,
 				DE13252C1B9E129800C73DC1 /* ViewController.swift */,
 				DE13252E1B9E129800C73DC1 /* Main.storyboard */,
+				DE13253C1B9E13D000C73DC1 /* cat4.jpg */,
 				DE1325311B9E129800C73DC1 /* Assets.xcassets */,
 				DE1325331B9E129800C73DC1 /* LaunchScreen.storyboard */,
 				DE1325361B9E129800C73DC1 /* Info.plist */,
@@ -124,6 +127,7 @@
 				DE1325351B9E129800C73DC1 /* LaunchScreen.storyboard in Resources */,
 				DE1325321B9E129800C73DC1 /* Assets.xcassets in Resources */,
 				DE1325301B9E129800C73DC1 /* Main.storyboard in Resources */,
+				DE13253D1B9E13D000C73DC1 /* cat4.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
